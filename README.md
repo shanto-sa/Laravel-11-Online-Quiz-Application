@@ -1,8 +1,25 @@
-# Laravel 11 Online Quiz Application (based on Laravel 11.x)
+# Ejabti - Laravel 11 Online Quiz Application (based on Laravel 11.x)
 
-- Application to manage and take the quiz online.
-- Admin can create test, manage tests and students.
-- Students can apply for the test and view results and answer sheets.
+# Student Functionality
+- Account Creation/Login
+- Profile Management
+- Quiz Participation
+- Automatic Scoring
+- Immediate Feedback
+- Personalized Quiz Recommendations
+- Performance Tracking
+- Communication
+
+# Administrator Functionality
+- Dashboard
+- User Management
+- Quiz Management
+- Analytics and Reporting
+- Personalized Quiz Recommendations
+- Content Management:
+- Communication
+- Security and Privacy
+
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
